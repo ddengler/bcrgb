@@ -259,6 +259,54 @@ people:
       - "Engineering"
       - "Zeitmanagement"
 
+  -
+    name: "Christian de Vries"
+    twitter: "@prcdv"
+
+  -
+    name: "Bernhard Fersch"
+
+  -
+    name: "Matthias Süß"
+    twitter: "@matthiassuess"
+    tags:
+      - "SEO"
+      - "eCommmerce"
+      - "Business Angel"
+
+  -
+    name: "Josef Rossmann"
+    twitter: "@josefrossmann"
+    tags:
+      - "Mobile"
+      - "Unternehmer"
+      - "Geschäftsmodelle"
+
+  -
+    name: "Maria Vogt"
+    tags:
+      - "Rumänien"
+      - "Erlebnisbericht"
+      - "Survival"
+
+  -
+    name: "Arthur Gollmer"
+    tags:
+      - "Bioinformatiker"
+      - "Allrounder"
+      - "soziophil"
+
+  -
+    name: "Wolfgang Lutz"
+    twitter: "@WLBORg"
+    tags:
+      - "iOS"
+      - "Administration"
+      - "Automatisierung"
+
+  -
+    name: "Tamara Rosenlehner"
+
 days:
   sat:
     '9 - 9:30 Uhr': "Anmeldung & Frühstück – 2.OG"
@@ -315,7 +363,7 @@ days:
         title: "TITLE"
         speaker: "@TWITTER"
     '13 - 14 Uhr': "Mittagessen – 2.OG"
-    
+
     '14 - 15 Uhr':
       0:
         title: "TITLE"
