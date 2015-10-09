@@ -258,14 +258,14 @@ people:
       - "Abenteuer"
       - "Engineering"
       - "Zeitmanagement"
-	  
+
   -
     name: "Christian de Vries"
     twitter: "@prcdv"
-	
+
   -
     name: "Bernhard Fersch"
-	
+
   -
     name: "Matthias Süß"
     twitter: "@matthiassuess"
@@ -273,7 +273,7 @@ people:
       - "SEO"
       - "eCommmerce"
       - "Business Angel"
-    
+
   -
     name: "Josef Rossmann"
     twitter: "@josefrossmann"
@@ -281,21 +281,21 @@ people:
       - "Mobile"
       - "Unternehmer"
       - "Geschäftsmodelle"
-	  
+
   -
     name: "Maria Vogt"
     tags:
       - "Rumänien"
       - "Erlebnisbericht"
       - "Survival"
-	  
+
   -
     name: "Arthur Gollmer"
     tags:
       - "Bioinformatiker"
       - "Allrounder"
       - "soziophil"
-	  
+
   -
     name: "Wolfgang Lutz"
     twitter: "@WLBORg"
@@ -303,8 +303,9 @@ people:
       - "iOS"
       - "Administration"
       - "Automatisierung"
-	  
-  - name: "Tamara Rosenlehner"
+
+  -
+    name: "Tamara Rosenlehner"
 
 days:
   sat:
@@ -362,7 +363,7 @@ days:
         title: "TITLE"
         speaker: "@TWITTER"
     '13 - 14 Uhr': "Mittagessen – 2.OG"
-    
+
     '14 - 15 Uhr':
       0:
         title: "TITLE"
