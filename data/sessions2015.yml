@@ -1,9 +1,9 @@
 rooms:
-  - 0
+  - MediaMarkt
+  - Oberpfalznetz
   - 1
   - 2
   - 3
-  - 4
 
 people:
   -
@@ -313,39 +313,79 @@ days:
     '9:30 - 10 Uhr': "Sessionplanung"
     '10 - 11 Uhr':
       0:
-        title: "TITLE"
-        speaker: "@TWITTER"
+        title: "Search explained"
+        speaker: "@hhoechtl"
+      1:
+        title: "Was macht eigentlich eine Presseabteilung in einem Unternehmen"
+        speaker: "@mikebuchner"
+      2:
+        title: "DIY-Trend Häkeln"
+        speaker: "@cattysr"
+      3:
+        title: "Drupal - Was kann das CMS?"
+        speaker: "@ambranet"
 
     '11 - 12 Uhr':
       0:
-        title: "TITLE"
-        speaker: "@TWITTER"
+        title: "Facebook-Werbung - Bringt das was?"
+        speaker: "@mikebuchner"
+      1:
+        title: "SEO - Wie funktioniert Google und wie nutze ich das?"
+        speaker: "Unbekannt"
+      2:
+        title: "Günstig Bahn fahren"
+        speaker: "@tmmd"
+      3:
+        title: "NEOS"
+        speaker: "@hhoechtl"
     '12 - 13 Uhr':
       0:
-        title: "TITLE"
-        speaker: "@TWITTER"
+        title: "Smart Home DIY"
+        speaker: "@d_scho"
+      1:
+        title: "Digitaler Nomade - Ortsunabhängiges Arbeiten"
+        speaker: "@adthink"
+      2:
+        title: "Hotelschnäppchen finden"
+        speaker: "@tmmd"
+      3:
+        title: "Freifunkt kann mich mal"
+        speaker: "@mikebuchner"
     '13 - 14 Uhr': "Mittagessen – FH Mensa"
     '14 - 15 Uhr':
       0:
-        title: "TITLE"
-        speaker: "@TWITTER"
+        title: "iOS / Mac Automatisierung"
+        speaker: "@WLBORg"
+      1:
+        title: "Umbau: Wie man ein Nachrichtenportal umzieht"
+        speaker: "@prcdv"
+      2:
+        title: "Pinterest - Online Pinnwand"
+        speaker: "@cattysr"
 
     '15 - 16 Uhr':
       0:
-        title: "TITLE"
-        speaker: "@TWITTER"
+        title: "Toastmasters"
+        speaker: "James Saunders, Kristina Amann"
+      1:
+        title: "Coworking @neep01"
+        speaker: "@strukturimpulse"
+      2:
+        title: "Google+ lebt - 500.000 Views in 7 Tagen"
+        speaker: "@tmmd"
+
 
     '16 - 17 Uhr':
       0:
-        title: "TITLE"
-        speaker: "@TWITTER"
-
-    '17 - 18 Uhr':
-      0:
-        title: "TITLE"
-        speaker: "@TWITTER"
-
-    '18 Uhr': 'Abendessen'
+        title: "Burnout vorbeugen"
+        speaker: "@wissensagentur"
+      1:
+        title: "Flüchtlinge in Regensburg - Diskussion"
+        speaker: "Jana Wolf"
+      2:
+        title: "TYPO3 Redaktion, Inhalte, allgemeine Vorstellung"
+        speaker: "Unbekannt"
+    '17 Uhr': 'Abendessen'
     'ab 20 Uhr': 'Abendprogramm'
 
   sun:
