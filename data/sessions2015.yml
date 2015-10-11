@@ -392,28 +392,51 @@ days:
     '9 - 10 Uhr': "Frühstück & Sessionplanung – 2.OG"
     '10 - 11 Uhr':
       0:
-        title: "TITLE"
-        speaker: "@TWITTER"
+        title: "Big Data"
+        speaker: "@hhoechtl"
     '11 - 12 Uhr':
       0:
-        title: "TITLE"
-        speaker: "@TWITTER"
+        title: "Statische Webseiten als Alternative zu CMS-Lösungen"
+        speaker: "@ddengler"
+      1:
+        title: "Patientenverfügung & Vorsorgevollmacht"
+        speaker: "@cattysr"
+      2:
+        title: "Diskussionsrunde Fundraising – Wie finanziere ich Projekte?"
+        speaker: "Maria"
     '12 - 13 Uhr':
       0:
-        title: "TITLE"
-        speaker: "@TWITTER"
+        title: "Monitoring – Ein Werkzeug nicht nur für Admins"
+        speaker: "Unbekannt"
+      1:
+        title: "App-Entwicklung - Q&A"
+        speaker: "@ddengler"
+      2:
+        title: "Unterstützung & Pflege – Welche Möglichkeiten gibt es?"
+        speaker: "@cattysr"
     '13 - 14 Uhr': "Mittagessen – 2.OG"
 
     '14 - 15 Uhr':
       0:
-        title: "TITLE"
-        speaker: "@TWITTER"
+        title: "Wie können Nerds in der Flüchtlingshilfe tätig werden?"
+        speaker: "@d_scho"
+      1:
+        title: "Twitch.tv – Game-Streaming"
+        speaker: "@fastjack25"
+      2:
+        title: "Erlebnisbericht – 1 Jahr Siebenbürgen"
+        speaker: "Unbekannt"
+      3:
+        title: "Ich kann nicht vortragen - Q&A"
+        speaker: "@wissensagentur"
     '15 - 16 Uhr':
       0:
-        title: "TITLE"
-        speaker: "@TWITTER"
-    '16 - 17 Uhr':
-      0:
-        title: "TITLE"
-        speaker: "@TWITTER"
-    '17 Uhr': "Ende – Feedback"
+        title: "Ich kann nicht schreiben – stimmt das?"
+        speaker: "@wissensagentur"
+      1:
+        title: "Angebot & Nachfrage – ein Optimierungsproblem mit zu wenig Variablen"
+        speaker: "Arthur Gollmer"
+      2:
+        title: "The Spirit of Entrepreneurship"
+        speaker: "@strukturimpulse"
+    '16 Uhr': "Ende – Feedback"
