@@ -345,6 +345,7 @@ days:
       1:
         title: "Digitaler Nomade - Ortsunabhängiges Arbeiten"
         speaker: "@adthink"
+        slides_url: "http://www.adthink.de/admin/fckeditor/userfiles/adthink_bcrgb_nomade_101015.pdf"
       2:
         title: "Hotelschnäppchen finden"
         speaker: "@tmmd"
@@ -367,6 +368,7 @@ days:
       0:
         title: "Toastmasters"
         speaker: "James Saunders, Kristina Amann"
+        slides_url: "http://www.redensburger-toastmasters.de/"
       1:
         title: "Coworking @neep01"
         speaker: "@strukturimpulse"
@@ -379,6 +381,7 @@ days:
       0:
         title: "Burnout vorbeugen"
         speaker: "@wissensagentur"
+        slides_url: "http://www.wissensagentur.net/blog/wp-content/uploads/Linkliste-Vortrag-burnout-vorbeugen.pdf"
       1:
         title: "Flüchtlinge in Regensburg - Diskussion"
         speaker: "Jana Wolf"
@@ -429,6 +432,7 @@ days:
       3:
         title: "Ich kann nicht vortragen - Q&A"
         speaker: "@wissensagentur"
+        slides_url: "http://sicherundfreisprechen.de/ebook/"
     '15 - 16 Uhr':
       0:
         title: "Ich kann nicht schreiben – stimmt das?"

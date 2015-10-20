@@ -1,10 +1,10 @@
-- @nav = 'samstag'
-- rooms = data.sessions2015.rooms
-- sat = data.sessions2015.days.sat
+- @nav = 'sonntag'
+- rooms = data.sessions2016.rooms
+- sun = data.sessions2016.days.sun
 
 .full
-  %h2 Samstag
-- sat.each do |time, val|
+  %h2 Sonntag
+- sun.each do |time, val|
   .full
     %h3.room_header=time
     - if val.is_a? Hash

@@ -1,0 +1,75 @@
+rooms:
+  - 1
+  - 2
+  - 3
+  - 4
+
+people:
+  -
+    name: "Vorname Nachname"
+    twitter: "@twitter"
+    tags:
+      - "Tag1"
+      - "Tag2"
+      - "Tag3"
+
+days:
+  sat:
+    '9 - 9:30 Uhr': "Anmeldung & Frühstück – 2.OG"
+    '9:30 - 10 Uhr': "Sessionplanung"
+    '10 - 11 Uhr':
+      0:
+        title: "Session"
+        speaker: "@twitter"
+
+    '11 - 12 Uhr':
+      0:
+        title: "Session"
+        speaker: "@twitter"
+    '12 - 13 Uhr':
+      0:
+        title: "Session"
+        speaker: "@twitter"
+    '13 - 14 Uhr': "Mittagessen – FH Mensa"
+    '14 - 15 Uhr':
+      0:
+        title: "Session"
+        speaker: "@twitter"
+
+    '15 - 16 Uhr':
+      0:
+        title: "Session"
+        speaker: "@twitter"
+
+    '16 - 17 Uhr':
+      0:
+        title: "Session"
+        speaker: "@twitter"
+    '17 Uhr': 'Abendessen'
+    'ab 20 Uhr': 'Abendprogramm'
+
+  sun:
+    '9 - 10 Uhr': "Frühstück & Sessionplanung – 2.OG"
+    '10 - 11 Uhr':
+      0:
+        title: "Session"
+        speaker: "@twitter"
+    '11 - 12 Uhr':
+      0:
+        title: "Session"
+        speaker: "@twitter"
+    '12 - 13 Uhr':
+      0:
+        title: "Session"
+        speaker: "@twitter"
+    '13 - 14 Uhr': "Mittagessen – 2.OG"
+
+    '14 - 15 Uhr':
+      0:
+        title: "Session"
+        speaker: "@twitter"
+    '15 - 16 Uhr':
+      0:
+        title: "Session"
+        speaker: "@twitter"
+    '16 Uhr': "Ende – Feedback"
